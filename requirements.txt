@@ -1,2 +1,2 @@
-Scrapy==1.0.5
+Scrapy==1.8.1
 pyquery==1.2.11
